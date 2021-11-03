@@ -23,7 +23,7 @@
     "nuxt-buefy": "^0.3.31",
     "sass-loader": "^9.0.2",
     "v-mask": "^2.2.1",
-    "validator": "^13.1.1",
+    "validator": "^13.7.0",
     "vee-validate": "^3.3.5",
     "vue": "^2.6.11",
     "vue-scrollto": "^2.18.1",
