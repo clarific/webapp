@@ -18,7 +18,7 @@
     "awesome-mask": "^1.1.1",
     "lottie-web": "^5.7.1",
     "nodemailer": "^6.4.10",
-    "nuxt": "^2.13.3",
+    "nuxt": "^3.0.0",
     "nuxt-buefy": "^0.3.31",
     "v-mask": "^2.2.1",
     "validator": "^13.1.1",
@@ -31,6 +31,6 @@
   "devDependencies": {
     "node-sass": "^6.0.1",
     "sass-loader": "^10.2.1",
-    "webpack": "^4.46.0"
+    "webpack": "^5.75.0"
   }
 }
